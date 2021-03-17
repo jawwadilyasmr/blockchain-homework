@@ -1,4 +1,6 @@
-![bg](red)
+<div class="bg-yellow-light mb-2">
+  .text-gray-dark on .bg-yellow-light
+</div>
 # Creating a Genesis Block
 
 Creating a Genesis Block
