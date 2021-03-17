@@ -1,6 +1,4 @@
-.markdown-block {
-    background: grey;
-}
+![bg](red)
 # Creating a Genesis Block
 
 Creating a Genesis Block
