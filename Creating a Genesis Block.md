@@ -1,11 +1,14 @@
+.markdown-block {
+    background: grey;
+}
 # Creating a Genesis Block
 
 Creating a Genesis Block
 
 ## Instructions
-<span style="background-color:blue">
+
 * Navigate to the `geth-alltools` folder and double click puppeth file. This will open puppeth Terminal Window.
-</span>
+
  ```bash
  /Users/jawwadilyas/Documents/Fintech/geth-alltools/puppeth
  ```
