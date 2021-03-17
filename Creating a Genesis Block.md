@@ -35,6 +35,6 @@ You will be asked to enter a pre-fund account.
 
 You should see a success message and be redirected to the original prompt:
 
-![success](sscreenshots/puppeth_success.png)
+![success](screenshots/puppeth_success.png)
 
 Genesis configuration is stored in your local home directory.
