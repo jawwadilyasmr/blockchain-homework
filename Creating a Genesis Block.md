@@ -12,13 +12,13 @@ Creating a Genesis Block
 
 * In the following prompt: Type Jawwad for Network Name and hit enter for next question.
 
- ![puppeth](screenshots/puppeth.png)
+ ![puppeth](screenshots/puppeth_new.png)
 
 * Type option `2` to pick the `Configure new genesis` and hit enter for next question.
 * Type option `1` to pick `Create new genesis from scratch` and hit enter for next question.
 * Type option `1` to pick `Ethash - proof-of-work` for consensus engine (algorithm)
 
- ![genesis](screenshots/puppeth_genesis.png)
+ ![genesis](screenshots/puppeth_gensis.png)
 
 You will be asked to enter a pre-fund account.
 
@@ -35,6 +35,6 @@ You will be asked to enter a pre-fund account.
 
 You should see a success message and be redirected to the original prompt:
 
-![success](screenshots/puppeth_success.png)
+![success](sscreenshots/puppeth_success.png)
 
 Genesis configuration is stored in your local home directory.
