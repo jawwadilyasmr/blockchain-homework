@@ -31,7 +31,7 @@ You will be asked to enter a pre-fund account.
 
  ![prefunding accounts](screenshots/puppeth_prefund.png)
 
-* Come up with a number to use as a chain ID (e.g. `333`) type it, then hit enter.
+* Just hit enter.
 
 You should see a success message and be redirected to the original prompt:
 
