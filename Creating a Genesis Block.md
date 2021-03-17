@@ -12,7 +12,7 @@ Creating a Genesis Block
 
 * In the following prompt: Type Jawwad for Network Name and hit enter for next question.
 
- ![puppeth](screenshots/puppeth-new.png)
+ ![puppeth](screenshots/puppeth_new.png)
 
 * Type option `2` to pick the `Configure new genesis` and hit enter for next question.
 * Type option `1` to pick `Create new genesis from scratch` and hit enter for next question.
