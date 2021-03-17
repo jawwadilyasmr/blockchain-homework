@@ -1,34 +1,24 @@
 # Creating a Genesis Block
 
-In this activity, you will create your genesis block using `puppeth`, a tool bundled with the Go Ethereum tool.
-
-The genesis block is the first step towards creating your very own new blockchain!
-
-If you have not yet installed the Go Ethereum tool, or if you have any issues, please refer to the [Unit 18 Installation Guide](../../../Supplemental/blockchain-install-guide.md) for help.
-
-Recall that by **terminal window**, we refer to the `Terminal` in Mac, or `Git Bash` in Windows.
+Creating a Genesis Block
 
 ## Instructions
 
-* Open a terminal window, navigate to the `Blockchain-Tools` folder and type the following command:
+* Navigate to the `geth-alltools` folder and double click puppeth file. This will open puppeth Terminal Window.
 
  ```bash
- ./puppeth
+ /Users/jawwadilyas/Documents/Fintech/geth-alltools/puppeth
  ```
 
-* This should show the following prompt:
+* In the following prompt: Type Jawwad for Network Name and hit enter for next question.
 
- ![puppeth](Images/puppeth.png)
+ ![puppeth](screenshots/puppeth.png)
 
-* Type in a name for your network, like "puppernet" and hit enter to move forward in the wizard.
+* Type option `2` to pick the `Configure new genesis` and hit enter for next question.
+* Type option `1` to pick `Create new genesis from scratch` and hit enter for next question.
+* Type option `1` to pick `Ethash - proof-of-work` for consensus engine (algorithm)
 
-* Type `2` to pick the `Configure new genesis` option, then `1` to `Create new genesis from scratch`:
-
- ![genesis](Images/puppeth-genesis.png)
-
-Now you have the option to pick a consensus engine (algorithm) to use.
-
-* Type `1` to choose `Proof of Work` and continue.
+ ![genesis](screenshots/puppeth-genesis.png)
 
 You will be asked to enter a pre-fund account.
 
@@ -39,13 +29,13 @@ You will be asked to enter a pre-fund account.
 * Continue with the default option for the prompt that asks `Should the precompile-addresses (0x1 .. 0xff) be pre-funded with 1 wei?` by hitting enter again,
  until you reach the `Chain ID` prompt.
 
- ![prefunding accounts](Images/puppeth-prefund.png)
+ ![prefunding accounts](screenshots/puppeth-prefund.png)
 
 * Come up with a number to use as a chain ID (e.g. `333`) type it, then hit enter.
 
 You should see a success message and be redirected to the original prompt:
 
-![success](Images/puppeth-success.png)
+![success](screenshots/puppeth-success.png)
 
 Awesome! Your genesis configuration is stored in your local home directory.
 
