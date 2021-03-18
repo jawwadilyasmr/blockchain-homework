@@ -18,7 +18,7 @@ Creating a Genesis Block
 * Type option `1` to pick `Create new genesis from scratch` and hit enter for next question.
 * Type option `1` to pick `Ethash - proof-of-work` for consensus engine (algorithm)
 
- ![genesis](screenshots/puppeth-genesis.png)
+ ![genesis](screenshots/puppeth_gensis.png)
 
 You will be asked to enter a pre-fund account.
 
@@ -29,18 +29,12 @@ You will be asked to enter a pre-fund account.
 * Continue with the default option for the prompt that asks `Should the precompile-addresses (0x1 .. 0xff) be pre-funded with 1 wei?` by hitting enter again,
  until you reach the `Chain ID` prompt.
 
- ![prefunding accounts](screenshots/puppeth-prefund.png)
+ ![prefunding accounts](screenshots/puppeth_prefund.png)
 
-* Come up with a number to use as a chain ID (e.g. `333`) type it, then hit enter.
+* Just hit enter.
 
 You should see a success message and be redirected to the original prompt:
 
-![success](screenshots/puppeth-success.png)
+![success](screenshots/puppeth_success.png)
 
-Awesome! Your genesis configuration is stored in your local home directory.
-
-We'll export this later. For now, congratulate yourself on creating the rules for your new blockchain network!
-
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Genesis configuration is stored in your local home directory.
