@@ -23,7 +23,7 @@ To export genesis configuration into a `jawwad.json` file as follows:
 
 * Then, type `2` again to choose the `Export genesis configurations` option, and continue with the default (current) directory by hitting enter:
 
- ![export genesis puppeth](screenshots/node_export.png)
+ ![export genesis puppeth](screenshots/node_export_new.png)
 
 * This will export several `yournetworkname.json` files -- we will only be using the first one without `aleth`, `parity`, or `harmony` suffixes.
 
