@@ -1,16 +1,16 @@
-# Transacting on your chain
+# Connecting chain
 
-In this activity, you will be connecting MyCrypto to your custom chain, importing your pre-funded wallet, then sending a test transaction to yourself!
+In this step, connecting MyCrypto to created chain, importing your pre-funded wallet, then sending a test transaction to yourself!
 
 ## Instructions
 
-First, you will need to get the private key of your pre-funded address and keep it handy for later.
+Get the private key.
 
-* Open up MyCrypto to get the private key of the ETH address you used to pre-fund your chain. Be sure the `Kovan` network is selected.
+* Open up MyCrypto to get the private key of the ETH address you used to pre-fund your chain. Make sure `Kovan` network is selected.
 
  ![Verify Kovan network](screenshots/verify-kovan.gif)
 
-* Unlock your wallet using your mnemonic phrase and choose the address you want to inspect.
+* Unlock wallet using mnemonic phrase and choose the address you want to inspect.
 
 * Select the ETH address you used to pre-fund your chain, and in the "Select" dropdown list, choose `Wallet Info`.
 
@@ -18,7 +18,7 @@ First, you will need to get the private key of your pre-funded address and keep 
 
  ![Get private key](screenshots/get-private-key.gif)
 
-Now you are going to connect MyCrypto with the blockchain you created. Follow the next steps.
+Now you are going to connect MyCrypto with the blockchain created. Follow the next steps.
 
 * Open up MyCrypto, then click `Change Network` at the bottom left:
 
@@ -50,11 +50,11 @@ Now that you are connected to your blockchain, you will need to load the private
 
  ![Open wallet step 2](screenshots/open-wallet-2.png)
 
-* Looks like we're filthy rich! This is the balance that was pre-funded for this account in the genesis configuration; however, these millions of ETH tokens are just for testing purposes.
+* These millions of ETH tokens are just for testing purposes.
 
  ![prefunded account](screenshots/prefunded-account.png)
 
-Now we're going to send a transaction to ourselves to test it out. Follow the next steps.
+Test the transaction by sending to same account.
 
 * Copy the pre-funded address into the "To Address" field, then fill in an arbitrary amount of ETH:
 
@@ -68,14 +68,12 @@ Now we're going to send a transaction to ourselves to test it out. Follow the ne
 
  ![check tx](screenshots/check-tx-status.png)
 
-* You should see the transaction go from `Pending` to `Successful` in around the same block time you set in the genesis.
+* Monitor the transaction go from `Pending` to `Successful` in around the same block time you set in the genesis.
 
 * You can click the `Check TX Status` button to update the status.
 
  ![successful transaction](screenshots/transaction-status.png)
 
-Congratulations! That was the first transaction sent on this blockchain network!
-
 ---
 
-© All images are copied from gitlab Activities
+© All the images and the contents are copied from gitlab Activity number Week 18 Day 3 folder 05-Stu_Transact/Images
