@@ -1,12 +1,21 @@
 # Creating two nodes with accounts
 
-In this activity, you will create two accounts for nodes to use for mining rewards.
+Create two accounts for nodes to use for mining rewards.
 
-Then, you will initialize the nodes using the genesis block configuration you created earlier to prepare them for bringing the chain to life!
+Then, initialize the nodes using the genesis block configuration that created earlier.
 
 ## Instructions
+* Navigate to the `geth-alltools` folder and double click puppeth file. This will open puppeth Terminal Window.
 
-First, export your genesis configuration into a `yournetworkname.json` file as follows:
+ ```bash
+ /Users/jawwadilyas/Documents/Fintech/geth-alltools/puppeth
+ ```
+
+* In the following prompt: Type Jawwad for Network Name and hit enter for next question.
+
+ ![puppeth](screenshots/puppeth_new.png)
+
+To export genesis configuration into a `jawwad.json` file as follows:
 
 * In the `puppeth` prompt, navigate to the `Manage existing genesis` by typing `2` and hitting enter.
 
