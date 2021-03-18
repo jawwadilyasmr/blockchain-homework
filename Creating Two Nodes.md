@@ -25,7 +25,7 @@ To export genesis configuration into a `jawwad.json` file as follows:
 
  ![export genesis puppeth](screenshots/node_export_new.png)
 
-* This will export several `yournetworkname.json` files -- we will only be using the first one without `aleth`, `parity`, or `harmony` suffixes.
+* This will export json files -- we will only be using `jawwad.json`.
 
 Now, we need to create at least two nodes to build the chain from the genesis block onward:
 
@@ -39,7 +39,7 @@ Now, we need to create at least two nodes to build the chain from the genesis bl
 
 You should see a success message similar to this one:
 
-![geth new account](Images/geth-account-new.png)
+![geth new account](screenshots/node1_directory.png)
 
 * Create a new text file for notes, and copy the node's address into the file and label it `Node 1 Key`.
 
@@ -48,6 +48,7 @@ You should see a success message similar to this one:
  ```bash
  ./geth account new --datadir node2
  ```
+![geth new account](screenshots/node2_directory.png)
 
 * Make sure to keep track of the node's addresses and which belongs to which. 
 
