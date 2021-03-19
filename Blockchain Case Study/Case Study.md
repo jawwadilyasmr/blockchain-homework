@@ -1,3 +1,5 @@
+![Figment](Figment.png)
+
 ## What Is It
 
 Figment Networks is based in Canada, serving customers worldwide offering largest blockchain infrastructure and services. Founders Matt Harrop, Lorien Gabel and Andrew Cronk successfully started internet infrastructure company. Their deep background in infrastructure and security combined with decentralised technology led them to launch Figment Networks in 2018. 
@@ -14,10 +16,9 @@ Web 3.0 will bring a decentralized, democratic power structure to the internet. 
 There are number of advantages that Web 3 offers; No Central point of control, removing the middlemen, data is fully encryptyed and no control of big companies.
 Data ownership: End users will gain the complete control of data and have the security of encryption. Information can be shared on permissioned basis. 
 Reduction in hacking and data breaches. As data is decentralized and distributed hackers can access the whole network.
-Permissionless blockchains, anyone can create an address and interact with the network. Digital assets can be transferred cross-border, quickly and efficiently anywhere in the world.
+Permissionless blockchains, anyone can create an address and interact with the network. Digital assets can be transferred cross-border, quickly and efficiently anywhere in the world. Uninterrupted service, there is no signal point of failure, data stored on distributed nodes to ensure redundancy and multiple backups. 
 
-Uninterrupted service, there is no signal point of failure, data stored on distributed nodes to ensure redundancy and multiple backups. 
-
+![Web 3](Pictures/Web3.png)
 ## Why This May be Interesting
 
 Hubble is the platform validators and token holders use to explore and interact with Web 3 protocols. Hubble redefines what a block explorer should be by enhancing the protocol data available instead of simply presenting it. Validators use Hubble to monitor their performance, manage proposals, and obtain valuable insights into their delegator base. Users and token holders use Hubble to stake, vote, and track their rewards. It becomes the Hub that manages their whole Web 3 experience. It is a decentralised messaging platform, non-custodial crypto wallet and web 3 browser, designed to act as a network node which interacts with decentralised applications (DApps) that run on the Ethereum network. Hubble provide Transactional and skating data in real-time, customisable alerts on chain events, validator performance data and the ability to track, export and participate on-chain governance. 
