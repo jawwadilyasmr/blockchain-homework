@@ -76,4 +76,4 @@ Test the transaction by sending to same account.
 
 ---
 
--- All the images and the contents are copied from gitlab Activity number Week 18 Day 3 folder 05-Stu_Transact/Images
+-- Mostly the images and the contents are copied from gitlab Activity number Week 18 Day 3 folder 05-Stu_Transact/Images, except the last one this transaction done using custom network puppernet
