@@ -9,7 +9,7 @@ Hubble is the platform validator and token holder to explore and interact with W
 
 ## Why This Matters
 
-Instead of privatized and monopolized companies likes of Google, Facebook and Uber, the promise of Web 3.0 is that it will bring a decentralized, democratic power structure to the internet. Web 3 won’t allow private corporations such as Google and Apple to take the personal information from the web.
+Web 3.0 will bring a decentralized, democratic power structure to the internet. Web 3 won’t allow private corporations such as Google and Apple to take the personal information from the web.
 
 There are number of advantages that Web 3 offers;
 
@@ -24,10 +24,14 @@ Permissionless blockchains, anyone can create an address and interact with the n
 Uninterrupted service, there is no signal point of failure, data stored on distributed nodes to ensure redundancy and multiple backups. 
 
 ## Why This May be Interesting
-Hubble is a decentralised messaging platform, non-custodial crypto wallet and web 3 browser, designed to act as a network node which interacts with decentralised applications (DApps) that run on the Ethereum network. Hubble provide Transactional and skating data in real-time, customisable alerts on chain events, validator performance data and the ability to track, export and participate on-chain governance.
+
+Hubble is the platform validators and token holders use to explore and interact with Web 3 protocols. Hubble redefines what a block explorer should be by enhancing the protocol data available instead of simply presenting it. Validators use Hubble to monitor their performance, manage proposals, and obtain valuable insights into their delegator base. Users and token holders use Hubble to stake, vote, and track their rewards. It becomes the Hub that manages their whole Web 3 experience. It is a decentralised messaging platform, non-custodial crypto wallet and web 3 browser, designed to act as a network node which interacts with decentralised applications (DApps) that run on the Ethereum network. Hubble provide Transactional and skating data in real-time, customisable alerts on chain events, validator performance data and the ability to track, export and participate on-chain governance. 
 
 ## References
-*https://figment.io/*
-*https://www.communitybankingbrief.com/blockchain/case-study/fintech/*
-*https://www.brainbridge.be/*
-*https://blockstream.com/*
+*https://figment.io/* 
+
+*https://www.communitybankingbrief.com/blockchain/case-study/fintech/* 
+
+*https://www.brainbridge.be/* 
+
+*https://blockstream.com/* 
