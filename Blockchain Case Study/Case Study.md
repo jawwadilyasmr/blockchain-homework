@@ -11,14 +11,9 @@ Hubble is the platform validator and token holder to explore and interact with W
 
 Web 3.0 will bring a decentralized, democratic power structure to the internet. Web 3 won’t allow private corporations such as Google and Apple to take the personal information from the web.
 
-There are number of advantages that Web 3 offers;
-
-No Central point of control, removing the middlemen, data is fully encryptyed and no control of big companies.
-
+There are number of advantages that Web 3 offers; No Central point of control, removing the middlemen, data is fully encryptyed and no control of big companies.
 Data ownership: End users will gain the complete control of data and have the security of encryption. Information can be shared on permissioned basis. 
-
 Reduction in hacking and data breaches. As data is decentralized and distributed hackers can access the whole network.
-
 Permissionless blockchains, anyone can create an address and interact with the network. Digital assets can be transferred cross-border, quickly and efficiently anywhere in the world.
 
 Uninterrupted service, there is no signal point of failure, data stored on distributed nodes to ensure redundancy and multiple backups. 
