@@ -30,9 +30,9 @@ Now you are going to connect MyCrypto with the blockchain created. Follow the ne
 
 * Make sure that you scroll down to choose `Custom` in the "Network" column to reveal more options like `Chain ID`:
 
- ![custom network](screenshots/custom-network.png)
+ ![custom network](screenshots/cutomNetwork.png)
 
-* The chain ID must match what you came up with earlier.
+* The chain ID must match what you came up with earlier which is 11093
 
 * The URL must point to the default RPC port on your local machine. Use `http://127.0.0.1:8545`.
 
@@ -72,8 +72,8 @@ Test the transaction by sending to same account.
 
 * You can click the `Check TX Status` button to update the status.
 
- ![successful transaction](screenshots/TX_Status.png)
+ ![successful transaction](screenshots/Puppernet_tx_status.png)
 
 ---
 
--- All the images and the contents are copied from gitlab Activity number Week 18 Day 3 folder 05-Stu_Transact/Images
+-- Some images and the contents are copied from gitlab Activity number Week 18 Day 3 folder 05-Stu_Transact/Images. 
