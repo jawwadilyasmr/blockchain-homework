@@ -72,7 +72,7 @@ Test the transaction by sending to same account.
 
 * You can click the `Check TX Status` button to update the status.
 
- ![successful transaction](screenshots/TX_Status.png)
+ ![successful transaction](screenshots/Puppernet_tx_status.png)
 
 ---
 
