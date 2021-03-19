@@ -1,4 +1,4 @@
-![Figment](Figment.png)
+![Figment](Pictures/Figment.png)
 
 ## What Is It
 
