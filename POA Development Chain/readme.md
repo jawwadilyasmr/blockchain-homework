@@ -1,4 +1,4 @@
-*Steps to start the network.
+# Steps to start the network.
 
 Please follow the steps in the following documents in the same sequence.
 
