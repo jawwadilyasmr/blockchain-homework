@@ -1,0 +1,35 @@
+=============== Mar 15, 2021 (AEDT) ===============
+20:54:12.166010 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:54:12.208791 db@open opening
+20:54:12.209779 version@stat F·[] S·0B[] Sc·[]
+20:54:12.234370 db@janitor F·2 G·0
+20:54:12.234445 db@open done T·25.610291ms
+20:54:12.240323 db@close closing
+20:54:12.240528 db@close done T·203.501µs
+=============== Mar 15, 2021 (AEDT) ===============
+21:17:35.507845 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:17:35.508470 version@stat F·[] S·0B[] Sc·[]
+21:17:35.508519 db@open opening
+21:17:35.508636 journal@recovery F·1
+21:17:35.516831 journal@recovery recovering @1
+21:17:35.542923 memdb@flush created L0@2 N·622 S·50KiB "\x02d\xfc..\x19Ba,v430":"\xfe\x88\xcf..H\xef\xcc,v362"
+21:17:35.551664 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+21:17:35.626021 db@janitor F·3 G·0
+21:17:35.626069 db@open done T·117.530282ms
+21:17:35.749938 table@compaction range L-1 "a":"b"
+21:17:35.749980 table@compaction L0·1 -> L1·0 S·50KiB Q·628
+21:17:35.773556 table@build created L1@5 N·622 S·50KiB "\x02d\xfc..\x19Ba,v430":"\xfe\x88\xcf..H\xef\xcc,v362"
+21:17:35.789090 version@stat F·[0 1] S·50KiB[0B 50KiB] Sc·[0.00 0.00]
+21:17:35.852596 table@compaction committed F~ S~ Ke·0 D·0 T·102.579469ms
+21:17:35.860838 memdb@flush N·6 S·184B
+21:17:35.920535 memdb@flush created L0@7 N·6 S·322B "Dat..ion,v624":"unc..own,v629"
+21:17:35.920729 version@stat F·[1 1] S·50KiB[322B 50KiB] Sc·[0.25 0.00]
+21:17:35.978420 memdb@flush committed F·1 T·100.993852ms
+21:17:35.978968 journal@remove removed @3
+21:17:35.979004 table@compaction range L-1 "o":"p"
+21:17:35.997400 table@compaction L0·1 -> L1·1 S·50KiB Q·629
+21:17:36.022897 table@build created L1@8 N·626 S·50KiB "\x02d\xfc..\x19Ba,v430":"\xfe\x88\xcf..H\xef\xcc,v362"
+21:17:36.023131 version@stat F·[0 1] S·50KiB[0B 50KiB] Sc·[0.00 0.00]
+21:17:36.046594 table@compaction committed F-1 S-379B Ke·0 D·2 T·49.139731ms
+21:17:36.046989 table@remove removed @7
+21:17:36.047232 table@remove removed @5
